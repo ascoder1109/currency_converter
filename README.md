@@ -1,1 +1,1 @@
-This is a currency converter app that will convert values of USD into INR. Built using Flutter.
+This is a currency converter app that will show INR equivalent of USD. Built using Flutter.
